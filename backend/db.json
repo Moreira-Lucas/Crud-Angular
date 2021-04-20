@@ -1,11 +1,6 @@
 {
   "products": [
     {
-      "id": 1,
-      "name": "Caneta bic preta",
-      "price": "5.89"
-    },
-    {
       "id": 2,
       "name": "Mochila Redley",
       "price": "500.89"
